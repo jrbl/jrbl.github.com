@@ -4,7 +4,7 @@
   <title><![CDATA[Stochastic Process]]></title>
   <link href="http://jrbl.github.com/atom.xml" rel="self"/>
   <link href="http://jrbl.github.com/"/>
-  <updated>2012-06-13T21:51:55-07:00</updated>
+  <updated>2012-06-13T22:05:09-07:00</updated>
   <id>http://jrbl.github.com/</id>
   <author>
     <name><![CDATA[Joe Blaylock]]></name>
@@ -12,5 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress: The Blogging Engine for Hackers]]></title>
+    <link href="http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers.markdown/"/>
+    <updated>2012-06-13T22:00:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers.markdown</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress: The Blogging Engine for Hackers]]></title>
+    <link href="http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers/"/>
+    <updated>2012-06-13T22:00:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers</id>
+    <content type="html"><![CDATA[<h1>First Post</h1>
+
+<p>Well, here I am trying out Octopress.  I  guess it&#8217;s time for me to finally
+join the 21st century and learn
+<a href="http://daringfireball.net/projects/markdown/syntax">MarkDown</a>.  I&#8217;m sure my
+webs will be clearer if I do.</p>
+]]></content>
+  </entry>
   
 </feed>
