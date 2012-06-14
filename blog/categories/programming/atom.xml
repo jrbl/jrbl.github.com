@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Stochastic Process]]></title>
-  <link href="http://jrbl.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Programming | Stochastic Process]]></title>
+  <link href="http://jrbl.github.com/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://jrbl.github.com/"/>
   <updated>2012-06-13T22:10:45-07:00</updated>
   <id>http://jrbl.github.com/</id>
@@ -15,28 +15,20 @@
   
   <entry>
     <title type="html"><![CDATA[Octopress: The Blogging Engine for Hackers]]></title>
-    <link href="http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers.markdown/"/>
-    <updated>2012-06-13T22:00:00-07:00</updated>
-    <id>http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers.markdown</id>
-    <content type="html"><![CDATA[]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress: The Blogging Engine for Hackers]]></title>
     <link href="http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers/"/>
     <updated>2012-06-13T22:00:00-07:00</updated>
     <id>http://jrbl.github.com/blog/2012/06/13/octopress-the-blogging-engine-for-hackers</id>
     <content type="html"><![CDATA[<h1>First Post</h1>
 
-<p>Well, here I am trying out Octopress.  I  guess it&#8217;s time for me to finally
+<p>Well, here I am trying out Octopress.  I  guess it's time for me to finally
 join the 21st century and learn
-<a href="http://daringfireball.net/projects/markdown/syntax">MarkDown</a>.  I&#8217;m sure my
+<a href="http://daringfireball.net/projects/markdown/syntax">MarkDown</a>.  I'm sure my
 webs will be clearer if I do.</p>
 
-<p>I&#8217;m listening to the Aquaria soundtrack.  I&#8217;ve only recently discovered video
+<p>I'm listening to the Aquaria soundtrack.  I've only recently discovered video
 game soundtracks.  I still feel pretty nerdy for liking them, but as my buddy
-@brettcsmith keeps pointing out to me, they&#8217;re sort of the perfect thing when
-you want something to fill your head but not distract you.  It&#8217;s what they&#8217;re
+@brettcsmith keeps pointing out to me, they're sort of the perfect thing when
+you want something to fill your head but not distract you.  It's what they're
 designed for.</p>
 
 <p>I seem to be having a problem with this thing generating a .markdown/index.html
