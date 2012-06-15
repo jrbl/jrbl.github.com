@@ -4,7 +4,7 @@
   <title><![CDATA[Stochastic Process]]></title>
   <link href="http://jrbl.github.com/atom.xml" rel="self"/>
   <link href="http://jrbl.github.com/"/>
-  <updated>2012-06-15T13:55:36-07:00</updated>
+  <updated>2012-06-15T14:05:50-07:00</updated>
   <id>http://jrbl.github.com/</id>
   <author>
     <name><![CDATA[Joe Blaylock]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[All of my posts have suspiciously even timestamps]]></title>
+    <link href="http://jrbl.github.com/blog/2012/06/15/all-of-my-posts-have-suspiciously-even-timestamps/"/>
+    <updated>2012-06-15T14:03:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/06/15/all-of-my-posts-have-suspiciously-even-timestamps</id>
+    <content type="html"><![CDATA[<p>woogie woogie blub blub blub</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to tell if your chicken is a smack addict]]></title>
+    <link href="http://jrbl.github.com/blog/2012/06/15/how-to-tell-if-your-chicken-is-a-smack-addict/"/>
+    <updated>2012-06-15T13:59:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/06/15/how-to-tell-if-your-chicken-is-a-smack-addict</id>
+    <content type="html"><![CDATA[<p>How can you tell?</p>
+
+<p>Don&#8217;t worry.  It is.</p>
+
+<p>Unless it&#8217;s actually a thai guinea fowl.  Then it&#8217;s having too much fun playing with itself to do smack.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I need a third post to see what this does]]></title>

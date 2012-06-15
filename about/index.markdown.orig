@@ -9,7 +9,7 @@
   <meta name="author" content="Joe Blaylock">
 
   
-  <meta name="description" content="About Wed Jun 13 22:16:00 2012 Wed Jun 13 22:16:00 2012 Tweet Comments Please enable JavaScript to view the comments powered by Disqus. Recent Posts &hellip;">
+  <meta name="description" content="About 13 06 2012 22:16 13 06 2012 22:16 Tweet Comments Please enable JavaScript to view the comments powered by Disqus. Recent Posts All of my posts &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,7 +78,7 @@
   
 
 
-<time datetime="2012-06-13T22:16:00-07:00" pubdate data-updated="true">Wed Jun 13 22:16:00 2012</time></p>
+<time datetime="2012-06-13T22:16:00-07:00" pubdate data-updated="true">13 06 2012 22:16</time></p>
   </header>
   
   
@@ -98,7 +98,7 @@
   
 
 
-<time datetime="2012-06-13T22:16:00-07:00" pubdate data-updated="true">Wed Jun 13 22:16:00 2012</time>
+<time datetime="2012-06-13T22:16:00-07:00" pubdate data-updated="true">13 06 2012 22:16</time>
         
       </p>
       
@@ -132,6 +132,14 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/06/15/all-of-my-posts-have-suspiciously-even-timestamps/">All of my posts have suspiciously even timestamps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/15/how-to-tell-if-your-chicken-is-a-smack-addict/">How to tell if your chicken is a smack addict</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2012/06/13/i-need-a-third-post-to-see-what-this-does/">I need a third post to see what this does</a>
