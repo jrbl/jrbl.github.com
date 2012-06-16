@@ -5,12 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>About Me - Stochastic Process</title>
+  <title>writings - Stochastic Process</title>
   <meta name="author" content="Joe Blaylock">
 
   
-  <meta name="description" content="About Me Interests Raised in Ohio, educated in Indiana, currently residing in California. Married;
-raising two dogs. Interests include Buddhism, &hellip;">
+  <meta name="description" content="Writings 15 Jun 2012 17:58 15 Jun 2012 17:58 Tweet Comments Please enable JavaScript to view the comments powered by Disqus. Recent Posts All of my &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +18,7 @@ raising two dogs. Interests include Buddhism, &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://jrbl.github.com/about/">
+  <link rel="canonical" href="http://jrbl.github.com/writings/index.markdown.orig">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -67,50 +66,65 @@ raising two dogs. Interests include Buddhism, &hellip;">
 <article role="article">
   
   <header>
-    <h1 class="entry-title">About Me</h1>
-    
+    <h1 class="entry-title">Writings</h1>
+    <p class="meta">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-06-15T17:58:00-07:00" pubdate data-updated="true">15 Jun 2012 17:58</time></p>
   </header>
   
-  <h2>Interests</h2>
+  
+  
+    <footer>
+      <p class="meta">
+        
+        
 
-<p>Raised in Ohio, educated in Indiana, currently residing in California. Married;
-raising two dogs. Interests include Buddhism, science fiction, jazz, comics and
-tea. Everything else tends to change without notice.</p>
 
-<p>I&#8217;m like a kid in a candy shop every time I go to the library. I&#8217;ve been called
-a &#8220;professional dilettante.&#8221;</p>
 
-<p>Things I want to write more about include: my family (and geneology), Buddhism,
-pacifism, rock climbing, running, tea, travel, origami, The Future, cognitive
-science, computer science, fiction and poetry,</p>
 
-<p>Some day, I may spin off a whole web site devoted to one or all of these
-topics. Until then, this page serves as a stub.</p>
 
-<h2>Contact</h2>
 
-<ul>
-<li>Jabber: joseph.blaylock -at- gmail.com</li>
-<li>Yahoo: JrblAtJrblDotOrg</li>
-<li>Email:
-
-<ul>
-<li>jrbl -at- [jrbl|canonical].org</li>
-<li>blaylock -at- indiana.edu</li>
-<li>jrbl -at- [slac.]stanford.edu</li>
-</ul>
-</li>
-<li><a href="http://www.jrbl.org/~jrbl/files/blaylock_public_key.asc">my up-to-date gpg public key</a></li>
-</ul>
 
 
   
-    <footer>
+
+
+<time datetime="2012-06-15T17:58:00-07:00" pubdate data-updated="true">15 Jun 2012 17:58</time>
+        
+      </p>
       
+        <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://jrbl.github.com/writings/index.markdown.orig" data-via="joeblaylock" data-counturl="http://jrbl.github.com/writings/index.markdown.orig" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
       
     </footer>
   
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -217,7 +231,10 @@ topics. Until then, this page serves as a stub.</p>
       var disqus_shortname = 'jrbl';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://jrbl.github.com/writings/index.markdown.orig';
+        var disqus_url = 'http://jrbl.github.com/writings/index.markdown.orig';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
