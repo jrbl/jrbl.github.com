@@ -4,7 +4,7 @@
   <title><![CDATA[Stochastic Process]]></title>
   <link href="http://jrbl.github.com/atom.xml" rel="self"/>
   <link href="http://jrbl.github.com/"/>
-  <updated>2012-10-23T19:34:16-07:00</updated>
+  <updated>2012-10-23T19:36:14-07:00</updated>
   <id>http://jrbl.github.com/</id>
   <author>
     <name><![CDATA[Joe Blaylock]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How many posts are shown as recent?]]></title>
+    <link href="http://jrbl.github.com/blog/2012/10/23/how-many-posts-are-shown-as-recent/"/>
+    <updated>2012-10-23T19:35:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/10/23/how-many-posts-are-shown-as-recent</id>
+    <content type="html"><![CDATA[<p>So there&#8217;s this thing that I want to know. And I&#8217;m not sure what it will yield.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[All of my posts have suspiciously even timestamps]]></title>
