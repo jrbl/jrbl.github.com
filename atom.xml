@@ -4,7 +4,7 @@
   <title><![CDATA[Stochastic Process]]></title>
   <link href="http://jrbl.github.com/atom.xml" rel="self"/>
   <link href="http://jrbl.github.com/"/>
-  <updated>2012-10-23T19:37:22-07:00</updated>
+  <updated>2012-10-23T22:16:38-07:00</updated>
   <id>http://jrbl.github.com/</id>
   <author>
     <name><![CDATA[Joe Blaylock]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Todo: cutting and disqus]]></title>
+    <link href="http://jrbl.github.com/blog/2012/10/23/blog-todo-cutting-and-disqus/"/>
+    <updated>2012-10-23T22:14:00-07:00</updated>
+    <id>http://jrbl.github.com/blog/2012/10/23/blog-todo-cutting-and-disqus</id>
+    <content type="html"><![CDATA[<p>I need to learn how to configure it to cut content after a few lines for the front page display.</p>
+
+<p>I also need to figure out what&#8217;s going wrong with my disqus setup. That&#8217;s more mysterious; I&#8217;ll have to learn how disqus is supposed to work along the way.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Gargle]]></title>
